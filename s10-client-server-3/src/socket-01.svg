@@ -7,9 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="324.90649mm"
-   height="194.09125mm"
-   viewBox="0 0 324.9065 194.09125"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"
+   width="273.32553mm"
+   height="132.68352mm"
+   viewBox="0 0 273.32554 132.68352"
    version="1.1"
    id="svg8"
    inkscape:version="1.0alpha (9dee831, 2019-01-15)"
@@ -190,8 +193,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50031309"
-     inkscape:cx="685.08214"
-     inkscape:cy="473.34715"
+     inkscape:cx="583.73854"
+     inkscape:cy="170.91467"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -223,47 +226,41 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(-6.5971565,49.613262)">
+     transform="translate(-6.5971565,7.0798321)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.269117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1292"
-       width="324.90649"
-       height="194.09125"
+       width="273.32553"
+       height="132.68352"
        x="6.5971565"
-       y="-49.613262"
+       y="-7.0798321"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text817-36-5-3"
+       y="23.423132"
+       x="223.36993"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696058"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696058"
+         y="23.423132"
+         x="223.36993"
+         id="tspan815-7-3-6"
+         sodipodi:role="line">IP, PORT</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-6.5971565,49.613262)">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect869-3"
-       width="88.733482"
-       height="117.06404"
-       x="219.05249"
-       y="-16.51827"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect869"
-       width="81.784477"
-       height="126.15121"
-       x="23.41227"
-       y="-15.282399"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
+     transform="translate(-6.5971565,7.0798321)">
     <circle
        style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path862-7"
-       cx="266.39597"
+       cx="227.45706"
        cy="60.817177"
        r="30.819448"
        inkscape:export-xdpi="90"
@@ -281,34 +278,34 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
-       x="54.701817"
-       y="53.480034"
+       x="63.599445"
+       y="45.748421"
        id="text817"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan815"
-         x="54.701817"
-         y="53.480034"
+         x="63.599445"
+         y="45.748421"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.696059">App1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.684875"
-       x="272.38632"
-       y="47.400749"
+       x="230.59605"
+       y="44.005085"
        id="text821"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
          sodipodi:role="line"
-         x="272.38632"
-         y="47.400749"
+         x="230.59605"
+         y="44.005085"
          style="stroke-width:0.684875"
          id="tspan982">App2</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 98.660739,83.450946 H 231.80753"
+       d="m 98.66074,83.449382 h 95.1894"
        id="path883"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -316,18 +313,9 @@
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.570275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.71082, 1.71082;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1184)"
-       d="M 236.07462,89.989794 H 95.547923"
+       d="M 195.73689,89.991357 H 95.30195"
        id="path883-5"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
-    <circle
-       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1210"
-       cx="93.229721"
-       cy="82.720703"
-       r="5.6426105"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
@@ -348,46 +336,32 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
-       x="63.503914"
-       y="1.8059916"
+       x="63.882271"
+       y="25.934887"
        id="text817-36-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan815-7-3"
-         x="63.503914"
-         y="1.8059916"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">Machine A</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.684875"
-       x="262.25629"
-       y="0.46920115"
-       id="text821-0"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
-         sodipodi:role="line"
-         id="tspan819-9"
-         x="262.25629"
-         y="0.46920115"
-         style="stroke-width:0.684875">Machine B</tspan></text>
+         x="63.882271"
+         y="25.934887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">IP, PORT</tspan></text>
     <text
        inkscape:transform-center-y="-17.215958"
        inkscape:transform-center-x="35.931824"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.684875"
-       x="73.382957"
-       y="96.106743"
+       x="102.46211"
+       y="105.51603"
        id="text821-0-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan819-9-0"
-         x="73.382957"
-         y="96.106743"
+         x="102.46211"
+         y="105.51603"
          style="fill:#0000ff;stroke-width:0.684875">Socket</tspan></text>
     <path
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"
@@ -395,7 +369,7 @@
        inkscape:export-xdpi="90"
        inkscape:connector-curvature="0"
        id="path879-3"
-       d="m 63.896857,58.542477 23.27403,20.85071"
+       d="m 59.176075,54.759224 23.27403,20.85071"
        style="fill:#000000;stroke:#000000;stroke-width:0.570275px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1343)"
        sodipodi:nodetypes="cc" />
     <text
@@ -403,14 +377,14 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="text821-0-6-62"
-       y="-4.3032942"
-       x="102.97881"
+       y="-4.9671474"
+       x="99.362488"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.68081px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.684874"
        xml:space="preserve"
        transform="rotate(42.897382)"><tspan
          style="fill:#ff0000;stroke-width:0.684874"
-         y="-4.3032942"
-         x="102.97881"
+         y="-4.9671474"
+         x="99.362488"
          id="tspan819-9-0-6"
          sodipodi:role="line">send()</tspan></text>
     <text
@@ -427,7 +401,7 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:#000000;stroke:#000000;stroke-width:0.570275px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1343-3)"
-       d="M 85.716218,84.361137 56.173026,57.971211"
+       d="M 79.098081,81.780418 49.554889,55.390492"
        id="path879-3-7"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -437,9 +411,9 @@
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       r="5.6426105"
-       cy="83.001709"
-       cx="239.56845"
+       r="8.221241"
+       cy="84.583809"
+       cx="203.08722"
        id="path1210-5"
        style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
@@ -447,21 +421,21 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="text821-0-6-3"
-       y="92.282913"
-       x="261.23154"
+       y="105.09726"
+       x="186.91063"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.684874"
        xml:space="preserve"
        inkscape:transform-center-x="35.931824"
        inkscape:transform-center-y="-17.215958"><tspan
          style="fill:#0000ff;stroke-width:0.684874"
-         y="92.282913"
-         x="261.23154"
+         y="105.09726"
+         x="186.91063"
          id="tspan819-9-0-5"
          sodipodi:role="line">Socket</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        style="fill:#000000;stroke:#000000;stroke-width:0.570275px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1343-1)"
-       d="M 277.14425,49.939962 246.01692,80.42597"
+       d="M 240.09054,48.311629 208.96321,78.797637"
        id="path879-3-0"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -473,53 +447,62 @@
        inkscape:export-xdpi="90"
        inkscape:connector-curvature="0"
        id="path879-3-7-6"
-       d="M 243.98452,76.469365 268.75681,51.878773"
+       d="M 204.71952,75.347535 229.49181,50.756943"
        style="fill:#000000;stroke:#000000;stroke-width:0.570275px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1343-3-9)"
        sodipodi:nodetypes="cc" />
     <text
        transform="rotate(42.897383)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.68082px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.684874"
-       x="100.62796"
-       y="12.008017"
+       x="95.418137"
+       y="17.301714"
        id="text821-0-6-62-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan819-9-0-6-6"
-         x="100.62796"
-         y="12.008017"
+         x="95.418137"
+         y="17.301714"
          style="fill:#ff0000;stroke-width:0.684874">rcv()</tspan></text>
     <text
        transform="rotate(-43.627405)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.68082px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.684874"
-       x="136.05328"
-       y="220.45026"
+       x="111.43142"
+       y="189.84503"
        id="text821-0-6-62-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan819-9-0-6-5"
-         x="136.05328"
-         y="220.45026"
+         x="111.43142"
+         y="189.84503"
          style="fill:#ff0000;stroke-width:0.684874">rcv</tspan></text>
     <text
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="text821-0-6-62-7-3"
-       y="235.6245"
-       x="143.46193"
+       y="213.82645"
+       x="117.32175"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.68082px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.684874"
        xml:space="preserve"
        transform="rotate(-43.627405)"><tspan
          style="fill:#ff0000;stroke-width:0.684874"
-         y="235.6245"
-         x="143.46193"
+         y="213.82645"
+         x="117.32175"
          id="tspan819-9-0-6-5-5"
          sodipodi:role="line">send</tspan></text>
+    <circle
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1210-5-7"
+       cx="87.775261"
+       cy="83.959633"
+       r="8.221241"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-01.png" />
   </g>
 </svg>
