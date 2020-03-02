@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="socket-05.svg"
+   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 369.32059 269.36836"
+   height="269.36835mm"
+   width="369.32059mm"
+   inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-04.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1583"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1347" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1343"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1107" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1179"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path943" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1184"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1182" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path927" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1343-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1107-3"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1343-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1107-2"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1343-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1107-2-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1343-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1107-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1343-6-3-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1107-2-6-2"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1343-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1107-27"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1343-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1107-6-3" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path927-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path927-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path927-7-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path927-7-6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2-9-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path927-7-3-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1583-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1347-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1583-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1347-9-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:snap-global="false"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="1107"
+     inkscape:window-x="67"
+     inkscape:window-height="1025"
+     inkscape:window-width="1853"
+     showgrid="false"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="mm"
+     inkscape:cy="614.89852"
+     inkscape:cx="704.16252"
+     inkscape:zoom="0.35377478"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(18.104395,57.310135)"
+     inkscape:label="back"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       y="-57.310135"
+       x="-18.104395"
+       height="269.36835"
+       width="369.32059"
+       id="rect1292"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.269117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(18.104395,57.310135)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="23.657988"
+       cy="-13.123943"
+       cx="205.88072"
+       id="path862-3-9"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="30.819448"
+       cy="60.817177"
+       cx="227.45706"
+       id="path862-7"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       ry="23.041323"
+       rx="22.612968"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       cy="-13.013608"
+       cx="255.6554"
+       id="path862"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text817"
+       y="-18.771509"
+       x="254.76709"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.696059"
+         y="-18.771509"
+         x="254.76709"
+         id="tspan815"
+         sodipodi:role="line">Client</tspan></text>
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text821"
+       y="60.609325"
+       x="236.97781"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.684875"
+       xml:space="preserve"><tspan
+         id="tspan982"
+         style="stroke-width:0.684875"
+         y="60.609325"
+         x="236.97781"
+         sodipodi:role="line">Server</tspan></text>
+    <path
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="path883"
+       d="m 252.59551,28.03163 4.82494,-16.171674"
+       style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-01.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text817-36"
+       y="74.755447"
+       x="65.937828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.93493px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         y="83.087196"
+         x="65.937828"
+         id="tspan815-7"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1505"
+       y="39.911201"
+       x="169.19125"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="49.27494"
+         x="169.19125"
+         id="tspan1503"
+         sodipodi:role="line" /></text>
+    <circle
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1210-5"
+       cx="236.69258"
+       cy="88.807419"
+       r="8.221241"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="8.221241"
+       cy="1.3301953"
+       cx="255.79535"
+       id="path1210-5-7"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="8.221241"
+       cy="34.992153"
+       cx="244.18135"
+       id="path1210-5-5"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-3)"
+       d="m 250.10878,10.702082 -3.39296,15.134976"
+       id="path883-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text821-0-6-3-1"
+       y="178.51842"
+       x="47.876331"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.684874"
+       xml:space="preserve"
+       inkscape:transform-center-x="35.931824"
+       inkscape:transform-center-y="-17.215958"><tspan
+         style="fill:#ff0000;stroke-width:0.684874"
+         y="178.51842"
+         x="47.876331"
+         sodipodi:role="line"
+         id="tspan1231">Clients waiting to</tspan><tspan
+         id="tspan1749"
+         style="fill:#ff0000;stroke-width:0.684874"
+         y="192.21591"
+         x="47.876331"
+         sodipodi:role="line">be attended</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path862-3"
+       cx="151.46069"
+       cy="63.30426"
+       r="23.657988"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.696058"
+       x="202.71149"
+       y="-21.030563"
+       id="text817-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan815-75"
+         x="202.71149"
+         y="-21.030563"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.696058">Client</tspan></text>
+    <circle
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1210-5-7-9"
+       cx="214.17192"
+       cy="37.508095"
+       r="8.221241"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <circle
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1210-5-7-1"
+       cx="211.44032"
+       cy="-0.064931013"
+       r="8.221241"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
+       d="m 215.75711,10.171972 0.90936,15.852689"
+       id="path883-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <path
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="path883-0-6"
+       d="M 208.81783,28.807754 208.32087,10.179339"
+       style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-9)"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="2.8165333"
+       cy="9.331727"
+       cx="178.43909"
+       id="path1197"
+       style="fill:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round" />
+    <circle
+       style="fill:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path1197-0"
+       cx="172.49713"
+       cy="20.858143"
+       r="2.8165333" />
+    <circle
+       r="2.8165333"
+       cy="33.73613"
+       cx="167.627"
+       id="path1197-0-6"
+       style="fill:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text817-6-7"
+       y="55.439262"
+       x="149.88551"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.696058"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.696058"
+         y="55.439262"
+         x="149.88551"
+         id="tspan815-75-9"
+         sodipodi:role="line">Client</tspan></text>
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="8.221241"
+       cy="63.032726"
+       cx="204.72549"
+       id="path1210-5-7-9-2"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="8.221241"
+       cy="65.579048"
+       cx="167.02473"
+       id="path1210-5-7-1-0"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="path883-0-2"
+       d="m 176.65899,62.396523 18.18473,0.05658"
+       style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-2)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.571;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.713, 1.713;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-9-1)"
+       d="m 195.39978,68.746727 -18.70372,0.82204"
+       id="path883-0-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="23.657988"
+       cy="115.25851"
+       cx="70.62989"
+       id="path862-3-2"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.696058"
+       x="69.05471"
+       y="107.39352"
+       id="text817-6-7-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan815-75-9-8"
+         x="69.05471"
+         y="107.39352"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff0000;stroke-width:0.696058">Client</tspan></text>
+    <circle
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1210-5-7-1-0-9"
+       cx="86.193947"
+       cy="117.53329"
+       r="8.221241"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <rect
+       y="106.56451"
+       x="180.7169"
+       height="21.901161"
+       width="41.944763"
+       id="rect1316"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1318"
+       d="m 222.94646,116.41505 h 14.20566 V 97.649829"
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1583)" />
+    <text
+       inkscape:transform-center-y="-17.215958"
+       inkscape:transform-center-x="35.931824"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.684874"
+       x="201.26431"
+       y="120.48303"
+       id="text821-0-6-3-1-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"><tspan
+         id="tspan1231-6"
+         sodipodi:role="line"
+         x="201.26431"
+         y="120.48303"
+         style="fill:#ff0000;stroke-width:0.684874">Queue</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.71136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path862-3-2-1"
+       cx="159.00311"
+       cy="173.26282"
+       r="23.657988"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text817-6-7-2-2"
+       y="165.39783"
+       x="157.42793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.696058"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff0000;stroke-width:0.696058"
+         y="165.39783"
+         x="157.42793"
+         id="tspan815-75-9-8-9"
+         sodipodi:role="line">Client</tspan></text>
+    <circle
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       r="8.221241"
+       cy="175.5376"
+       cx="174.56717"
+       id="path1210-5-7-1-0-9-3"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.571172;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1583-1)"
+       d="m 185.6495,174.14454 31.47347,-42.70381"
+       id="path1318-4"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:transform-center-y="-17.215958"
+       inkscape:transform-center-x="35.931824"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.684874"
+       x="226.12166"
+       y="157.23737"
+       id="text821-0-6-3-1-78"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"><tspan
+         id="tspan1676"
+         sodipodi:role="line"
+         x="226.12166"
+         y="157.23737"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.684874">First in the</tspan><tspan
+         id="tspan1680"
+         sodipodi:role="line"
+         x="226.12166"
+         y="170.93486"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.684874"> queue</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1318-4-6"
+       d="m 96.190625,117.53585 79.884575,0.0894"
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1583-1-0)"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text821-0-6-3-1-78-1"
+       y="106.87247"
+       x="128.83467"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.684874"
+       xml:space="preserve"
+       inkscape:transform-center-x="35.931824"
+       inkscape:transform-center-y="-17.215958"><tspan
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.684874"
+         y="106.87247"
+         x="128.83467"
+         sodipodi:role="line"
+         id="tspan1680-6">Last in the queue</tspan></text>
+    <circle
+       style="fill:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path1197-3"
+       cx="80.753815"
+       cy="150.20767"
+       r="2.8165333" />
+    <circle
+       r="2.8165333"
+       cy="162.76614"
+       cx="96.044601"
+       id="path1197-0-2"
+       style="fill:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round" />
+    <circle
+       style="fill:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path1197-0-6-0"
+       cx="118.71918"
+       cy="175.59854"
+       r="2.8165333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.696058"
+       x="117.60514"
+       y="-24.051437"
+       id="text817-6-7-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-PNE/s10-client-server-3/intro-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan815-75-9-1"
+         x="117.60514"
+         y="-24.051437"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.696058">Clients being attended</tspan><tspan
+         id="tspan1769"
+         sodipodi:role="line"
+         x="117.60514"
+         y="-10.130312"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.696058">by the server</tspan></text>
+  </g>
+</svg>
